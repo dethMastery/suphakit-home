@@ -9,7 +9,9 @@
     "preview": "tsc && vite build && vite preview"
   },
   "dependencies": {
-    "solid-js": "^1.8.15"
+    "@solidjs/meta": "^0.29.4",
+    "solid-js": "^1.8.15",
+    "@solidjs/router": "^0.13.3"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.19",
