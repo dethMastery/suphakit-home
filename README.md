@@ -31,4 +31,4 @@ npm run start # or `pnpm run start` or `yarn start`
 
 ---
 
-Made with 🤍, (Suphakit P.)[https://suphakit.net]
+Made with 🤍, [Suphakit P.](https://suphakit.net)
