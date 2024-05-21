@@ -1,6 +1,6 @@
 # Suphakit's Home
 
-This is another Homepage remaking (again) to trying new library.
+This is another Homepage remaking (again) to try new library.
 This time I used [Solid.JS](https://www.solidjs.com/) with [Tailwind.CSS](https://tailwindcss.com/) to make this Homepage :)
 
 ## Usage
